@@ -1,4 +1,4 @@
-import UserManagement from "./UserManagement";
+import UserManagement from "./userManagement";
 
 function App() {
   return <UserManagement />;
